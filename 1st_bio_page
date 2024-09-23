@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chenidu's Bio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        }
+        h2 {
+            color: #4CAF50;
+            text-align: center;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #f4f4f4;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Chenidu's Bio</h1>
+</header>
+
+<section>
+    <img src="chenidu.jpg" alt="Chenidu's Photo">
+    
+    <h2>About Me</h2>
+    <p>Hi! My name is Chenidu. I am 8 years old and I live in Hikkaduwa. I love learning new things and exploring the world around me. My favorite subjects in school are Science and Math, and I enjoy playing outside with my friends.</p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Playing football</li>
+        <li>Drawing and painting</li>
+        <li>Reading adventure books</li>
+        <li>Riding my bike</li>
+    </ul>
+
+    <h2>Favorite Things</h2>
+    <ul>
+        <li>Favorite food: Pizza</li>
+        <li>Favorite color: Blue</li>
+        <li>Favorite animal: Dolphin</li>
+        <li>Favorite sport: Football</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Thanks for visiting my bio page!</p>
+</footer>
+
+</body>
+</html>
